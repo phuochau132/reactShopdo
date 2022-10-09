@@ -1,0 +1,28 @@
+.wrapper {
+    margin-top: var(--height-header);
+    padding: 10px 0 60px 0;
+    height: auto;
+}
+
+.container {
+    height: auto;
+    margin: auto;
+    width: 95%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: 800;
+    margin-top: 50px;
+}
+
+.container-job {
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}

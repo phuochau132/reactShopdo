@@ -1,0 +1,35 @@
+:root {
+  --height-header: 70px;
+  --margin: 50px;
+}
+
+* {
+  font-family: 'Quicksand', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100vw;
+}
+
+.App {
+  text-align: center;
+}
+
+.slick-dots {
+  display: none !important;
+}
+
+.slick-arrow {
+  display: none !important;
+}
+
+path {
+  fill: black;
+}
+
+a {
+  text-decoration: none;
+}

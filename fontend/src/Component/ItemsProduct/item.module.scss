@@ -1,0 +1,60 @@
+.wrapper {
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.example-.hover {
+    display: none;
+}
+
+.img {
+    width: 100%;
+    object-fit: cover;
+    transition: all 0.5 ease;
+
+}
+
+
+.imgHover {
+    display: none;
+    width: 100%;
+    object-fit: cover;
+    transition: all 0.5 ease;
+
+}
+
+
+.col1 {
+    width: 90%;
+}
+
+.col2 {
+    width: 45%;
+}
+
+.col3 {
+    width: 30%;
+}
+
+.col4 {
+    width: 22%;
+}
+
+.col5 {
+    width: 18%;
+}
+
+.col6 {
+    width: 18%;
+}
+
+.col7 {}
+
+.col8 {}
+
+.col9 {}
+
+.col10 {}
