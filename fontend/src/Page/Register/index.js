@@ -18,9 +18,9 @@ function Register() {
             </div>
             <div className={cx("content-form")}>
                 <input className={cx('content-radio')} id="Nam" name="sex" type="radio" />
-                <label className={cx('content-label')} for="Nam">Nam</label>
+                <label className={cx('content-label')} htmlFor="Nam">Nam</label>
                 <input className={cx('content-radio')} id="Nu" name="sex" type="radio" />
-                <label className={cx('content-label')} for="Nu">Nữ</label>
+                <label className={cx('content-label')} htmlFor="Nu">Nữ</label>
             </div>
             <div className={cx("content-form")}>
                 <input className={cx('content-input')} id="password" type="password" placeholder="mm/dd/yyyy" />

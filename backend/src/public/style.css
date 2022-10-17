@@ -1,0 +1,11 @@
+h1 {
+    color: red;
+}
+
+label {
+    display: block;
+}
+
+.form-create-user {
+    margin: auto;
+}
